@@ -1,4 +1,5 @@
 public class CompanyEmpWage {
+
 	public final String company;
 	public final int empRatePerHour;
 	public final int numOfWorkingDays;
